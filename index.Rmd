@@ -1,0 +1,94 @@
+---
+title: "OLC 631" 
+subtitle: "EĞİTİM ARAŞTIRMALARINDA VERİ ANALİZ YÖNTEMLERİ"
+author: "Kübra Atalay Kabasakal"
+date: "Bahar 2023`"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: 
+      collapsed: false
+      smooth_scroll: false
+    theme:  default
+    highlight: null
+    css: styles.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+  
+## Açıklama
+
+- Eğitim araştırmalarında kullanılan istatistiksel hipotez testlerinin neler olduğunu bilmek ve uygulamalarını yapmak. 
+  
+
+## Amaçlar
+
+- İstatistik testlerinin sayıltılarını ve uygulandığı durumları açıklar. 
+- Karşılaştığı yeni bir araştırma probleminin çözümünde gerekli olabilecek istatistiksel analizleri yapar. 
+- İstatistiksel test sonuçlarını problem durumuna uygun olarak yorumlar ve raporlaştırır.
+
+## Kullanılacak Program
+
+- `r emo::ji('link')`[Jamovi](https://www.jamovi.org/download.html) bağlantıdan indirebilirsiniz.
+
+
+## Değerlendirme
+
+- %50 Dönem içi değerlendirmeler
+- %50 Final
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(iheiddown)
+startdate <- as.Date("2023-03-01")
+```
+
+## Kaynaklar
+
+- Büyüköztürk, Ş. (2002). Sosyal Bilimler İçin Veri Analizi El Kitabı. Ankara: Pegem Akademi
+
+-	Büyüköztürk, Ş. (2001). Deneysel Desenler: Öntest sontest kontrol gruplu desen. Ankara: Pegem Yayınları.
+
+- Can, A. (2008). SPSS ile Nicel Veri Analizi. Ankara: Pegem Akademi
+
+- Güler, N. (2016). Sosyal Bilimler için İstatistik. Ankara: Pegem Akademi
+
+# Ders İçerik *
+## Hafta 1 1 Mart: Tanışma ve Kaynak Tanıtımı 
+
+## Hafta 2 8 Mart: Hipotez testlerinin aşamaları
+
+
+## Hafta 3-4 15 Mart - 22 Mart: Bağımsız gruplarda ortalama karşılaştırılması: Parametrik testler ve etki büyüklüğü 
+
+
+## Hafta 5-6  29 Mart - 5 Nisan: Bağımlı gruplarda ortalama karşılaştırılması: Parametrik Testler ve etki büyüklüğü
+
+
+## Hafta 7  12 Nisan : Tek faktörlü değişkenlerde varyans analizi yöntemleri
+
+
+## Hafta 8 12 Nisan: Odev/Ara Sınav
+
+
+### Hafta 9  : Çok değişkenli regresyon analizi
+
+
+### Hafta 10  : 	Açımlayıcı faktör analizi
+
+
+### Hafta 11  :   Açımlayıcı faktör analizi
+
+
+### Hafta 12  :   Doğrulayıcı faktör analizi
+
+
+### Hafta 13  :   Doğrulayıcı faktör analizi
+
+
+### Hafta 14  : Genel Tekrar
+
+* Ders planı değişiklik gösterebilir.

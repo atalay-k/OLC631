@@ -56,11 +56,16 @@ startdate <- as.Date("2023-03-01")
 
 - Güler, N. (2016). Sosyal Bilimler için İstatistik. Ankara: Pegem Akademi
 
+-	 Baykul,Y. & Güzeller, C. O. (2013). Sosyal bilimler için istatistik: SPSS uygulamalı. Ankara: Pegem Akademi.
+
+- 	Gravetter, F. J. & Wallnau, L. B. (1985). Statistics for the behavioral sciences. West Publishing Company.
+
 # Ders İçerik *
 ## Hafta 1 1 Mart: Tanışma ve Kaynak Tanıtımı 
 
 ## Hafta 2 8 Mart: Hipotez testlerinin aşamaları
-
+- [Hipotez Testleri Giriş](HipotezTestlerineGiris.html) 
+- [Ortalamaların Örneklem Dağılımı](Nomal-Dagilim.html) 
 
 ## Hafta 3-4 15 Mart - 22 Mart: Bağımsız gruplarda ortalama karşılaştırılması: Parametrik testler ve etki büyüklüğü 
 

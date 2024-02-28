@@ -2,7 +2,7 @@
 title: "OLC 631" 
 subtitle: "EĞİTİM ARAŞTIRMALARINDA VERİ ANALİZ YÖNTEMLERİ"
 author: "Kübra Atalay Kabasakal"
-date: "Bahar 2024"
+date: "Bahar-2024"
 output: 
   html_document:
     toc: true

@@ -1,0 +1,120 @@
+---
+title: "OLC 631" 
+subtitle: "EĞİTİM ARAŞTIRMALARINDA VERİ ANALİZ YÖNTEMLERİ"
+author: "Kübra Atalay Kabasakal"
+date: "Bahar 2024"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: 
+      collapsed: false
+      smooth_scroll: false
+    theme:  default
+    highlight: null
+    css: styles.css
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+  
+## Açıklama
+
+- Eğitim araştırmalarında kullanılan istatistiksel hipotez testlerinin neler olduğunu bilmek ve uygulamalarını yapmak. 
+  
+
+## Amaçlar
+
+- İstatistik testlerinin sayıltılarını ve uygulandığı durumları açıklar. 
+- Karşılaştığı yeni bir araştırma probleminin çözümünde gerekli olabilecek istatistiksel analizleri yapar. 
+- İstatistiksel test sonuçlarını problem durumuna uygun olarak yorumlar ve raporlaştırır.
+
+## Kullanılacak Program
+
+- `r emo::ji('link')`[Jamovi](https://www.jamovi.org/download.html) bağlantıdan indirebilirsiniz.
+
+
+## Değerlendirme
+
+- %50 Dönem içi değerlendirmeler
+- %50 Final
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+library(iheiddown)
+startdate <- as.Date("2023-02-22")
+```
+
+## Kaynaklar
+
+- Büyüköztürk, Ş. (2002). Sosyal Bilimler İçin Veri Analizi El Kitabı. Ankara: Pegem Akademi
+
+-	Büyüköztürk, Ş. (2001). Deneysel Desenler: Öntest sontest kontrol gruplu desen. Ankara: Pegem Yayınları.
+
+- Can, A. (2008). SPSS ile Nicel Veri Analizi. Ankara: Pegem Akademi
+
+- Güler, N. (2016). Sosyal Bilimler için İstatistik. Ankara: Pegem Akademi
+
+-	 Baykul,Y. & Güzeller, C. O. (2013). Sosyal bilimler için istatistik: SPSS uygulamalı. Ankara: Pegem Akademi.
+
+- 	Gravetter, F. J. & Wallnau, L. B. (1985). Statistics for the behavioral sciences. West Publishing Company.
+
+# Ders İçerik *
+##  Tanışma ve Kaynak Tanıtımı 
+
+
+
+##  Hipotez testlerinin aşamaları
+
+-  [Konu Tekrarı Bilimsel Araştırma ](01_BilimselArastimaGiris.pdf)
+-  [Konu Tekrarı Merkezi Eğilim ](02_VerininTanimlanmasi.pdf)
+-  [Konu Tekrarı Olasılık](03_Olasilik.pdf)
+-  [Konu Tekrarı Standart Puanlar](03_StandartPuanlar.pdf)
+
+
+
+##  Hipotez testlerinin aşamaları
+
+- [Hipotez Testleri Giriş](HipotezTestlerineGiris.html) 
+- [Ortalamaların Örneklem Dağılımı](Nomal-Dagilim.html) 
+- [Hipotez Testleri Giriş](HipotezTestineGiris.pdf) 
+- Jamovi Uygulama
+
+##  Hipotez testlerinin aşamaları
+
+- [Hipotez Testleri Giriş](HipotezTestineGiris.pdf) 
+- [Jamovi Uygulama](Jamovi_Giris.docx)
+- [Jamovi Uygulama Veri](Jamovi_Giris.sav)
+
+##  Bağımsız gruplarda ortalama karşılaştırılması: Parametrik testler ve etki büyüklüğü 
+
+- [Tek Örneklem t testi](TekOrnelemttest.pdf)
+- [t-tablo](t-tablo.pdf)
+- [Uygulama](TekOrneklem.omv)
+
+## Bağımlı gruplarda ortalama karşılaştırılması: Parametrik Testler ve etki büyüklüğü
+
+- [Bağımsız Gruplar t testi](BagimliGruplarTtest.pdf)
+
+- [Bağımlı Gruplar t testi](BagimsizGruplar_t_test.pdf)
+
+##  Tek faktörlü değişkenlerde varyans analizi yöntemleri
+- [ANOVA](ANOVA.pdf)
+
+
+
+### Çok değişkenli regresyon analizi
+
+ 
+- [Korelasyon](KORELASYON.pdf)
+- [BASIT REGRESYON](BASIT REGRESYON.pdf)
+- [ÇOKLU REGRESYON](Regresyon_II.pdf)
+
+###   Açımlayıcı faktör analizi
+
+- [FA](FACTOR PROGRAMI.pdf)
+
+
+
+

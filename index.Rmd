@@ -86,7 +86,7 @@ startdate <- as.Date("2023-02-22")
 
 ##  Hipotez testlerinin aşamaları
 
-- [Örneklem Dağilimi(03_OrneklemDagilimi.pdf)
+- [Örneklem Dağilimi](03_OrneklemDagilimi.pdf)
 - [Hipotez Testleri Giriş](HipotezTestineGiris.pdf) 
 
 

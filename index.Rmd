@@ -76,7 +76,7 @@ startdate <- as.Date("2023-02-22")
 ## Z tabloları
 
 - [Z tablosu](z.pdf)
-- [Z tablosu v1 ](ttps://davidmlane.com/hyperstat/z_table.html)
+- [Z tablosu v1 ](https://davidmlane.com/hyperstat/z_table.html)
 - [Z tablosu v2](https://www.calculator.net/z-score-calculator.html?c1raw=80&c1mean=60&c1sd=10&calctype=zscore&x=Calculate)
 
 ## SPSS uygulamaları

@@ -95,7 +95,7 @@ startdate <- as.Date("2023-02-22")
 
 - [Tek Örneklem t testi](TekOrnelemttest.pdf)
 - [t-tablo](t-tablo.pdf)
-- [Uygulama](TekOrneklem.omv)
+- [Uygulama](tekorneklem.sav)
 
 ## Bağımlı gruplarda ortalama karşılaştırılması: Parametrik Testler ve etki büyüklüğü
 

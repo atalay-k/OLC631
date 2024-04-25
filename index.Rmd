@@ -103,7 +103,6 @@ startdate <- as.Date("2023-02-22")
 
 - [Bağımlı Gruplar t testi](BagimsizGruplar_t_test.pdf)
 
-- [t testi veriler]()
 
 ##  Tek faktörlü değişkenlerde varyans analizi yöntemleri
 - [ANOVA](ANOVA.pdf)

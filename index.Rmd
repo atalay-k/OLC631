@@ -118,7 +118,8 @@ startdate <- as.Date("2023-02-22")
 
 ###   Açımlayıcı faktör analizi
 
-- [FA](FACTOR PROGRAMI.pdf)
+- [FA](FA.pdf)
+- [AFA](AFA.sav)
 
 
 
